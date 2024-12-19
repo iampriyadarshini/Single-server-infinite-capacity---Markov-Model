@@ -43,7 +43,11 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## EXPERIMENT :
 ![WhatsApp Image 2024-12-19 at 11 03 59_31fec9b2](https://github.com/user-attachments/assets/fdae74de-979f-4bc6-90d2-acc261dd4de1)
 
