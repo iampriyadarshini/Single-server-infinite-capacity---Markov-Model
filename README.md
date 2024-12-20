@@ -1,5 +1,5 @@
-### EXP 04: Single server with infinite capacity (M/M/1):(oo/FIFO)
-### DATE: 09.11.2024
+# EXP 04: Single server with infinite capacity (M/M/1):(oo/FIFO)
+# DATE: 09.11.2024
 
 
 ## AIM :
